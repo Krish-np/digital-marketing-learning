@@ -3,7 +3,87 @@
 ![Stars](https://img.shields.io/github/stars/Krish-np/digital-marketing-learning?style=flat-square) ![Forks](https://img.shields.io/github/forks/Krish-np/digital-marketing-learning?style=flat-square) ![License](https://img.shields.io/github/license/Krish-np/digital-marketing-learning?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/Krish-np/digital-marketing-learning?style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/Krish-np/digital-marketing-learning?style=flat-square) ![Issues](https://img.shields.io/github/issues/Krish-np/digital-marketing-learning?style=flat-square) ![Markdown](https://img.shields.io/badge/Built%20With-Markdown-blue?style=flat-square) ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=flat-square)
 
 > A comprehensive beginner-friendly Digital Marketing learning repository containing structured notes, practical guides, real-world examples, checklists, and mini-projects from my college Digital Marketing course.
+# Digital Marketing Playbook
 
+![Stars](https://img.shields.io/github/stars/Krish-np/digital-marketing-learning?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Krish-np/digital-marketing-learning?style=flat-square)
+![License](https://img.shields.io/github/license/Krish-np/digital-marketing-learning?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Krish-np/digital-marketing-learning?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Krish-np/digital-marketing-learning?style=flat-square)
+![Issues](https://img.shields.io/github/issues/Krish-np/digital-marketing-learning?style=flat-square)
+![Markdown](https://img.shields.io/badge/Built%20With-Markdown-blue?style=flat-square)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=flat-square)
+
+> A comprehensive beginner-friendly Digital Marketing learning repository containing structured notes, practical guides, real-world examples, checklists, and mini-projects from my college Digital Marketing course.
+
+---
+
+## Repository Overview
+
+This repository is designed to become a complete learning resource for anyone interested in Digital Marketing.
+
+Instead of simply storing class notes, this project organizes concepts into structured documentation with practical examples, implementation guides, best practices, and practical exercises.
+
+Whether you're a:
+
+- Student
+- Beginner
+- Freelancer
+- WordPress Developer
+- Small Business Owner
+- Job Seeker
+
+this repository provides a solid foundation for learning modern Digital Marketing.
+
+---
+
+## Table of Contents
+
+- [Repository Overview](#repository-overview)
+- [Repository Structure](#repository-structure)
+- [Topics Covered](#topics-covered)
+- [Learning Roadmap](#learning-roadmap)
+- [Skills You'll Learn](#skills-youll-learn)
+- [Practical Projects](#practical-projects)
+- [Repository Highlights](#repository-highlights)
+- [Tools Used](#tools-used)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Folder Guide](#folder-guide)
+- [Current Best Practices](#current-best-practices)
+- [Recommended Learning Order](#recommended-learning-order)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+
+---
+
+## Repository Structure
+
+```text
+digital-marketing-learning/
+│
+├── README.md
+├── LICENSE
+│
+├── assets/
+│   ├── images/
+│   ├── screenshots/
+│   └── diagrams/
+│
+├── 01-digital-marketing-fundamentals/
+├── 02-seo/
+├── 03-wordpress/
+├── 04-yoast-seo/
+├── 05-social-media-marketing/
+├── 06-meta-ads/
+├── 07-google-tools/
+├── 08-email-marketing/
+├── 09-content-marketing/
+├── 10-case-studies/
+├── 11-checklists/
+└── resources/
+```
 # Digital Marketing Playbook
 
 > A comprehensive beginner-friendly Digital Marketing learning repository containing structured notes, practical guides, real-world examples, checklists, and mini-projects from my college Digital Marketing course.
