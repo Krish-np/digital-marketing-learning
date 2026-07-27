@@ -462,6 +462,8 @@ GitHub: https://github.com/Krish-np
 
 Portfolio: https://krishnathapa.name.np
 
+LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/krishna-thapa-a66477318/
+
 ---
 
 ## Support
