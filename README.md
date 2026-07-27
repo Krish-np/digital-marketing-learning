@@ -1,13 +1,6 @@
 # Digital Marketing Playbook
 
-![Stars](https://img.shields.io/github/stars/Krish-np/digital-marketing-learning?style=flat-square)
-![Forks](https://img.shields.io/github/forks/Krish-np/digital-marketing-learning?style=flat-square)
-![License](https://img.shields.io/github/license/Krish-np/digital-marketing-learning?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Krish-np/digital-marketing-learning?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/Krish-np/digital-marketing-learning?style=flat-square)
-![Issues](https://img.shields.io/github/issues/Krish-np/digital-marketing-learning?style=flat-square)
-![Markdown](https://img.shields.io/badge/Built%20With-Markdown-blue?style=flat-square)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Krish-np/digital-marketing-learning?style=flat-square) ![Forks](https://img.shields.io/github/forks/Krish-np/digital-marketing-learning?style=flat-square) ![License](https://img.shields.io/github/license/Krish-np/digital-marketing-learning?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/Krish-np/digital-marketing-learning?style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/Krish-np/digital-marketing-learning?style=flat-square) ![Issues](https://img.shields.io/github/issues/Krish-np/digital-marketing-learning?style=flat-square) ![Markdown](https://img.shields.io/badge/Built%20With-Markdown-blue?style=flat-square) ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=flat-square)
 
 > A comprehensive beginner-friendly Digital Marketing learning repository containing structured notes, practical guides, real-world examples, checklists, and mini-projects from my college Digital Marketing course.
 
