@@ -94,7 +94,8 @@ https://www.infinityfree.com/
 
 Click **Sign Up**.
 
-> **Screenshot:** `assets/screenshots/infinityfree-homepage.png`
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/infinityfree-homepage.png)
 
 ---
 
@@ -109,7 +110,7 @@ Verify your email address if prompted.
 
 After verification, log in to your InfinityFree dashboard.
 
-> **Screenshot:** `./assets/screenshots/infinityfree-dashboard.png`
+> **Screenshot:** `assets/screenshots/infinityfree-dashboard.png`
 
 ---
 
