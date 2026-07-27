@@ -1,13 +1,18 @@
 # Digital Marketing Playbook
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Krish-np/digital-marketing-learning?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Krish-np/digital-marketing-learning?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/Krish-np/digital-marketing-learning?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Krish-np/digital-marketing-learning?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Krish-np/digital-marketing-learning?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Krish-np/digital-marketing-learning?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Built%20With-Markdown-blue?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Krish-np/digital-marketing-learning?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Krish-np/digital-marketing-learning?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Krish-np/digital-marketing-learning?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Krish-np/digital-marketing-learning?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/Krish-np/digital-marketing-learning?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Krish-np/digital-marketing-learning?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Markdown-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Beginner-Friendly-success?style=for-the-badge" />
+</p>
 
 # Digital Marketing Playbook
 
