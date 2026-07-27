@@ -110,7 +110,8 @@ Verify your email address if prompted.
 
 After verification, log in to your InfinityFree dashboard.
 
-> **Screenshot:** `assets/screenshots/infinityfree-dashboard.png`
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/infinityfree-dashboard.png)
 
 ---
 
@@ -163,7 +164,8 @@ After your hosting account is ready:
 
 The system may ask for confirmation before opening the hosting panel.
 
-> **Screenshot:** `assets/screenshots/infinityfree-control-panel.png`
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/infinityfree-control-panel.png)
 
 Inside the control panel, you'll find options for:
 
@@ -188,7 +190,8 @@ Inside the Control Panel, scroll down until you find:
 
 Click it.
 
-> **Screenshot:** `assets/screenshots/softaculous-dashboard.png`
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/softaculous-dashboard.png)
 
 ---
 
@@ -347,7 +350,8 @@ Click **Log In**.
 
 You will now see the WordPress Dashboard.
 
-> **Screenshot:** `assets/screenshots/wordpress-dashboard-login.png`
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/wordpress-dashboard-login.png)
 
 ---
 
