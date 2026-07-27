@@ -109,7 +109,7 @@ Verify your email address if prompted.
 
 After verification, log in to your InfinityFree dashboard.
 
-> **Screenshot:** `assets/screenshots/infinityfree-dashboard.png`
+> **Screenshot:** `./assets/screenshots/infinityfree-dashboard.png`
 
 ---
 
