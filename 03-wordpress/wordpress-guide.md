@@ -351,7 +351,7 @@ Click **Log In**.
 You will now see the WordPress Dashboard.
 
 > **Screenshot:**
-> ![InfinityFree Homepage](/assets/screenshots/wordpress-dashboard-login.png)
+> ![InfinityFree Homepage](/assets/screenshots/wordpress-login.png)
 
 ---
 
@@ -367,3 +367,373 @@ You have successfully learned how to:
 - Log in to the WordPress Dashboard
 
 The next section covers the WordPress Dashboard and explains how to manage posts, pages, themes, plugins, menus, and website settings.
+
+---
+
+# Understanding the WordPress Dashboard
+
+After logging in, you'll be taken to the WordPress Dashboard. This is the control center of your website where you create content, customize the design, install plugins, and manage your site's settings.
+
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/wordpress-dashboard-login.png)
+
+The menu on the left contains all the tools you'll use to manage your website.
+
+| Menu       | Purpose                              |
+| ---------- | ------------------------------------ |
+| Dashboard  | View website overview and updates    |
+| Posts      | Create and manage blog posts         |
+| Media      | Upload images, videos, and documents |
+| Pages      | Create static pages                  |
+| Comments   | Manage visitor comments              |
+| Appearance | Customize themes, menus, and widgets |
+| Plugins    | Install additional features          |
+| Users      | Manage user accounts                 |
+| Tools      | Import and export website data       |
+| Settings   | Configure website settings           |
+
+---
+
+# Posts
+
+Posts are used for content that is published regularly and displayed in chronological order.
+
+Examples:
+
+- Blog Articles
+- News
+- Announcements
+- Tutorials
+
+To create a post:
+
+1. Click **Posts**.
+2. Select **Add New Post**.
+3. Enter a title.
+4. Write your content.
+5. Add images if needed.
+6. Click **Publish**.
+
+> **Screenshot:** `assets/screenshots/add-new-post.png`
+> ![InfinityFree Homepage](/assets/screenshots/add-new-post.png)
+
+---
+
+# Pages
+
+Pages are designed for content that rarely changes.
+
+Common pages include:
+
+- Home
+- About Us
+- Contact
+- Services
+- Privacy Policy
+
+To create a page:
+
+1. Go to **Pages**.
+2. Click **Add New Page**.
+3. Enter the page title.
+4. Add your content.
+5. Click **Publish**.
+
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/add-new-page.png)
+
+---
+
+# Posts vs Pages
+
+| Posts                               | Pages                            |
+| ----------------------------------- | -------------------------------- |
+| Time-based content                  | Static content                   |
+| Displayed in blogs                  | Standalone pages                 |
+| Organized using categories and tags | No categories or tags by default |
+| Updated frequently                  | Updated occasionally             |
+
+---
+
+# Categories
+
+Categories help organize your posts into broad topics.
+
+Example:
+
+```text
+Digital Marketing
+SEO
+WordPress
+Social Media
+Meta Ads
+```
+
+To create a category:
+
+1. Go to **Posts → Categories**.
+2. Enter a category name.
+3. Click **Add New Category**.
+
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/categories.png)
+
+---
+
+# Tags
+
+Tags describe specific topics within a post.
+
+Example:
+
+For an SEO article:
+
+Categories
+
+```text
+SEO
+```
+
+Tags
+
+```text
+Google
+Keyword Research
+Backlinks
+On-Page SEO
+```
+
+Tags provide additional organization but should not replace categories.
+
+---
+
+# Media Library
+
+The Media Library stores all uploaded files.
+
+Supported files include:
+
+- Images
+- PDFs
+- Videos
+- Documents
+- Audio files
+
+To upload media:
+
+1. Open **Media**.
+2. Click **Add New**.
+3. Upload your file.
+
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/media-library.png)
+
+Before uploading images:
+
+- Compress large files.
+- Use descriptive filenames.
+- Add meaningful Alt Text.
+- Avoid uploading unnecessary files.
+
+---
+
+# Themes
+
+A theme controls the appearance of your website without changing its content.
+
+To install a theme:
+
+1. Go to **Appearance → Themes**.
+2. Click **Add New Theme**.
+3. Search for a theme.
+4. Click **Install**.
+5. Click **Activate**.
+
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/themes.png)
+
+Popular free themes:
+
+- Astra
+- GeneratePress
+- Kadence
+- Twenty Twenty-Five
+- Blocksy
+
+Choose lightweight themes that receive regular updates.
+
+---
+
+# Customizing a Theme
+
+Most themes allow customization without editing code.
+
+Go to:
+
+```text
+Appearance → Customize
+```
+
+Depending on your theme, you can change:
+
+- Site Identity
+- Logo
+- Colors
+- Typography
+- Homepage Layout
+- Header
+- Footer
+
+Save your changes after making updates.
+
+---
+
+# Plugins
+
+Plugins add new features to your WordPress website.
+
+Examples include:
+
+- SEO
+- Security
+- Contact Forms
+- Backup
+- Caching
+- Image Optimization
+
+To install a plugin:
+
+1. Go to **Plugins → Add New**.
+2. Search for a plugin.
+3. Click **Install Now**.
+4. Click **Activate**.
+
+> **Screenshot:**
+> ![InfinityFree Homepage](/assets/screenshots/plugins.png)
+
+---
+
+# Essential Plugins
+
+For most WordPress websites, these plugins are a good starting point:
+
+| Plugin             | Purpose                    |
+| ------------------ | -------------------------- |
+| Yoast SEO          | Search Engine Optimization |
+| LiteSpeed Cache    | Performance Optimization   |
+| Wordfence Security | Website Security           |
+| Contact Form 7     | Contact Forms              |
+| UpdraftPlus        | Website Backups            |
+
+Only install plugins that you actually need. Too many plugins can slow down your website.
+
+---
+
+# General Settings
+
+Open:
+
+```text
+Settings → General
+```
+
+Configure:
+
+- Site Title
+- Tagline
+- WordPress Address
+- Site Address
+- Administrator Email
+- Time Zone
+- Date Format
+
+Review these settings before publishing your website.
+
+---
+
+# Reading Settings
+
+Navigate to:
+
+```text
+Settings → Reading
+```
+
+Here you can:
+
+- Choose your homepage.
+- Select the posts page.
+- Control how many blog posts appear.
+- Manage search engine visibility.
+
+If your website is ready for visitors, ensure **"Discourage search engines from indexing this site"** is **unchecked**.
+
+---
+
+# Permalinks
+
+Permalinks determine the structure of your website's URLs.
+
+Go to:
+
+```text
+Settings → Permalinks
+```
+
+Recommended option:
+
+```text
+Post Name
+```
+
+Example:
+
+Good:
+
+```text
+https://example.com/wordpress-guide
+```
+
+Poor:
+
+```text
+https://example.com/?p=123
+```
+
+Readable URLs improve usability and are generally better for SEO.
+
+---
+
+# Quick Recap
+
+You have now learned how to:
+
+- Navigate the WordPress Dashboard
+- Create posts and pages
+- Organize content with categories and tags
+- Upload media
+- Install themes
+- Install plugins
+- Build navigation menus
+- Use widgets
+- Configure important WordPress settings
+
+---
+
+# Summary
+
+In this guide, you learned how to:
+
+- Create a free hosting account using InfinityFree
+- Install WordPress using Softaculous
+- Log in to the WordPress Dashboard
+- Create posts and pages
+- Organize content using categories and tags
+- Upload media files
+- Install and customize themes
+- Install plugins
+- Create navigation menus
+- Use widgets
+- Configure important WordPress settings
+
+With these fundamentals in place, you're ready to start building and managing a professional WordPress website. In the next section, we'll explore **Yoast SEO** and learn how to optimize WordPress websites for better search engine visibility.
